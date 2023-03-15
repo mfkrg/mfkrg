@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/shinydiamond" target="_blank">Захар</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">И я начинающий программист из России 🇷🇺</h3>
+<h3 align="center">Я начинающий программист из России 🇷🇺</h3>
 
 - 🔭 На данный момент разрабатываю веб-приложение django
 - 🌱 Изучаю Django, MongoDB, Flask и FastAPI
