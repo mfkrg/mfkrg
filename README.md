@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут <a href="https://vk.com/shinydiamond" target="_blank">Захар</a> 
+<h1 align="center">Привет! Меня зовут Захар</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Backend Developer</h3>
 
